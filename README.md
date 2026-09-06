@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaime Fabian Cortes Vega</h1>
 <h3 align="center">I am a developer from Mexico who loves data analysis and machine learning.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
