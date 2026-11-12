@@ -57,9 +57,7 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaimeVGA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9a6&icon_color=00d9a6&text_color=9fa8da" alt="Jaime's GitHub Stats" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/JaimeVGA">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JaimeVGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9a6&text_color=9fa8da" alt="Top Languages" />
-    </a>
+
   </p>
 
   <br/>
