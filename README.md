@@ -1,18 +1,71 @@
-<h1 align="center">Hi 👋, I'm Jaime Fabian Cortes Vega</h1>
-<h3 align="center">I am a developer from Mexico who loves data analysis and machine learning.</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jaime-fabi%C3%A1n-cortes-vega-10883027b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaime fabián cortes vega" height="30" width="40" /></a>
-<a href="https://instagram.com/jaime_vga_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaime_vga_" height="30" width="40" /></a>
-</p>
+  <!-- BANNER SUPERIOR -->
+  <!-- Puedes reemplazar esta URL por una imagen personalizada (ej. assets/banner.png) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=220&section=header&text=Jaime%20Cortes&fontSize=56&fontAlignY=42&desc=Data%20Analysis%20%7C%20Machine%20Learning%20%7C%20Software%20Dev&descAlignY=64&descSize=18" width="100%" alt="Jaime Cortes Header" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <!-- BADGES DE REDES SOCIALES -->
+  <p align="center">
+    <a href="https://github.com/JaimeVGA" target="_blank">
+      <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/jaime-fabi%C3%A1n-cortes-vega-10883027b/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/jaime_vga_" target="_blank">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
+  <!-- SALUDO Y BIOGRAFÍA -->
+  <h1>Hi there 👋, &lt; devs /&gt;</h1>
 
+  <p>
+    My name is <b>Jaime Fabián Cortés Vega</b>, a passionate developer from <b>Mexico</b>.
+    <br/>
+    My main areas of interest are <b>Data Analysis</b>, <b>Machine Learning</b>, and <b>Software Development</b>.
+    <br/>
+    Constantly learning and building solutions with modern technologies and clean architectures.
+  </p>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=JaimeVGA&theme=midnight&border_radius=8.5)
+  <br/>
 
+  <!-- TECH STACK -->
+  <h2>Tech Stack</h2>
+  <hr width="80%" />
 
-![Top Languages](https://ghstats.dev/api/langs?username=JaimeVGA&theme=midnight&max_langs=6&layout=horizontal_list)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,tensorflow,c,js,html,css,git,linux" alt="Tech Stack - Languages & Core" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,vscode" alt="Tech Stack - Data & Tools" />
+    </a>
+  </p>
+
+  <br/>
+
+  <!-- STATISTICS -->
+  <h2>Statistics</h2>
+  <hr width="80%" />
+
+  <p align="center">
+    <a href="https://github.com/JaimeVGA">
+      <img src="https://github-readme-stats.vercel.app/api?username=JaimeVGA&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9a6&icon_color=00d9a6&text_color=9fa8da" alt="Jaime's GitHub Stats" />
+    </a>
+    <a href="https://github.com/JaimeVGA">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeVGA&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9a6&text_color=9fa8da" alt="Top Languages" />
+    </a>
+  </p>
+
+  <br/>
+
+  <!-- PIE DE PÁGINA -->
+  <p align="center">
+    <sub>With ❤️ from <b>Mexico</b></sub>
+  </p>
+
+</div>
