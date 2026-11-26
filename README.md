@@ -2,7 +2,7 @@
 
   <!-- BANNER SUPERIOR -->
   <!-- Puedes reemplazar esta URL por una imagen personalizada (ej. assets/banner.png) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=220&section=header&text=Jaime%20Cortes&fontSize=56&fontAlignY=42&desc=Data%20Analysis%20%7C%20Machine%20Learning%20%7C%20Software%20Dev&descAlignY=64&descSize=18" width="100%" alt="Jaime Cortes Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=220&section=header&text=JaimeVGA&fontSize=56&fontAlignY=42&desc=Data%20Analysis%20%7C%20Machine%20Learning%20%7C%20Software%20Dev&descAlignY=64&descSize=18" width="100%" alt="JaimeVGA Header" />
 
   <!-- BADGES DE REDES SOCIALES -->
   <p align="center">
@@ -48,25 +48,34 @@
 
   <br/>
 
-  <!-- STATISTICS -->
-  <h2>Statistics</h2>
-  <hr width="80%" />
+  <!-- ACTIVITY & STATISTICS -->
+  <h2>Activity &amp; Stats</h2>
+  <p align="center">
+    <img src="./assets/divider.svg" alt="Animated Divider" width="560" />
+  </p>
 
   <p align="center">
     <a href="https://github.com/JaimeVGA">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaimeVGA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9a6&icon_color=00d9a6&text_color=9fa8da" alt="Jaime's GitHub Stats" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/JaimeVGA">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JaimeVGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d9a6&text_color=9fa8da" alt="Top Languages" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1200&color=00D9A6&center=true&vCenter=true&width=560&height=38&lines=Data+Analysis+%26+Machine+Learning+Enthusiast;Building+Intelligent+%26+Scalable+Systems;Python+%E2%80%A2+TensorFlow+%E2%80%A2+SQL+%E2%80%A2+Docker+%E2%80%A2+AWS" alt="Animated Typing Tagline" />
     </a>
   </p>
+
+  <p align="center">
+    <a href="https://github.com/JaimeVGA">
+      <img src="https://streak-stats.demolab.com?user=JaimeVGA&theme=tokyonight&hide_border=true&background=00000000&stroke=2d333b&ring=00d9a6&fire=00d9a6&currStreakLabel=00d9a6&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=9fa8da&dates=9fa8da&card_width=560" alt="GitHub Streak Stats" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/JaimeVGA">
+      <img src="./assets/focus-card.svg" alt="ML & Engineering Focus" width="560" />
+    </a>
+  </p>
+
+
 
   <br/>
 
-  <!-- PIE DE PÁGINA -->
-  <p align="center">
-    <sub>With ❤️ from <b>Mexico</b></sub>
-  </p>
+
 
 </div>
